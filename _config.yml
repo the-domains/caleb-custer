@@ -1,0 +1,28 @@
+name: Caleb Custer
+favicon: null
+layout_spectrum: 0.655623726779595
+typography_spectrum: 0.056216079043224454
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3698796462267637
+  lightness: 0.7058565034531057
+  saturation: 0.21572660910896957
+  rhythmicContrast: 0.9296172314789146
+purpose: []
